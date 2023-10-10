@@ -1,14 +1,17 @@
 Jacob Welden Psaya
 
+INITIALISATION
 git init - initialise the folder to be git repository   //words enclosed in <> should be in quotation
 git status - to get status of (modified,staged,commited)
 git config user.name <name>
 
+FILE
 git add <filename> - (to stage one file) -I
 git add. - (to stage all files in the folder)
 git commit -m (-m stands for message)
 git push -u origin master
 
+BRANCH
 git branch <branchname>
 git checkout <branchname>
 git merge <branchname>
