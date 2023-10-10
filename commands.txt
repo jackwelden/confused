@@ -11,4 +11,5 @@ git branch <branchname>
 git checkout <branchname>
 git merge <branchname>
 git branch -d <branchname>
-mv file1.txt file2.txt
+mv file1.txt file2.txt (rename a file)
+git rm file.txt (remove a file)
